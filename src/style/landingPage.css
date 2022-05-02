@@ -1,0 +1,64 @@
+.myBG{
+    height: 100vh;
+    background: url(../assets/images/bg/bg3.jpg);
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 2px;
+}
+
+.trending {
+    height: auto;
+    background: url(../assets/images/bg/bg4.jpg);
+    background-size: cover;
+}
+
+.movieWrapper {
+
+}
+
+.movieImage {
+    height: auto;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.Images {
+    height: auto;
+}
+
+.judulTrending {
+    text-shadow: 2px 2px black;
+    letter-spacing: 2px;
+    font-weight: 501000;
+}
+
+.isiContent {
+    height: 170px;
+}
+
+.judulMovie {
+    text-shadow: 2px 2px grey;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+.imageSlide {
+    height: 400px;
+    margin-bottom: 180px;
+    margin-left: auto;
+    margin-right: auto;
+}
